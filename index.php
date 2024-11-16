@@ -132,6 +132,7 @@
                     <h5 class="modal-title" id="exampleModalLabel">Employee details</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
+                
                 <div class="modal-body">
                     <span>name : </span><span class="name_view"></span><br>
                     <span>email : </span><span class="email_view"></span><br>
