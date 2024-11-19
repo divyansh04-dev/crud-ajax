@@ -124,6 +124,7 @@
     </div>
     <!-- Add Employee Modal end -->
 
+    
     <!-- View Modal start -->
     <div class="modal fade" id="viewmodal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
